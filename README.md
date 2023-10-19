@@ -4,7 +4,7 @@ Ce repository à pour but de partager des cheatsheets pour les étudiants de 3SI
 
 ## Comment contribuer ?
 
-Pour contribuer, il suffit de faire un fork du repository, de faire vos modifications et de faire une pull request.
+Pour contribuer, il suffit de faire un [fork du repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo), de faire vos modifications et de faire une [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 Toutes les contributions sont les bienvenues 😊.
 
 ## Comment rédiger une cheatsheet ?
